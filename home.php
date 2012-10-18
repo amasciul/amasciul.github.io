@@ -2,7 +2,8 @@
 	<aside id="whoami">
 		<h1>Who am I ?</h1>
 		<p id="picture"><img src="./img/photo.png" alt="Me" /></p>
-		<p>I'm Alexandre Masciulli, I'm French and I study computer engineering at the <a href="http://www.utc.fr">University of Technolgy of Compiègne</a>. I'm also currently intern at <a href="http://www.shopmium.com">Shopmium</a>.
+		<p>I'm Alexandre Masciulli, I'm French and I study computer engineering at the <em>Université de Technolgie de Compiègne</em> (<a href="http://www.utc.fr">www.utc.fr</a>).<br>
+			I'm also currently intern at Shopmium (<a href="http://www.shopmium.com">shopmium.com</a>).
 	</aside>
 	<article>
 		<h1>Welcome to my website !</h1>

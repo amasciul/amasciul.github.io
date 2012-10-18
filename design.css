@@ -126,6 +126,10 @@ article a{
 	color:white;
 }
 
+#whoami a:hover{
+	text-decoration: none;
+}
+
 article
 {
 	width:550px;
@@ -281,6 +285,10 @@ img{
 
 .project aside a{
 	color:white;
+}
+
+.project aside a:hover{
+	text-decoration: none;
 }
 
 .project article{
