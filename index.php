@@ -23,6 +23,7 @@
         <title>Alexandre Masciulli</title>
         <link href="./design.css" rel="stylesheet">
 		<link rel="stylesheet" href="slimbox/css/slimbox.css" type="text/css" media="screen" />
+		<link rel="icon" type="image/png" href="img/favicon.png" />
 
         <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>

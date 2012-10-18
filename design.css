@@ -121,6 +121,9 @@ article, #whoami
 article a{
 	color:black;
 }
+article a:hover{
+	text-decoration: none;
+}
 
 #whoami a{
 	color:white;
