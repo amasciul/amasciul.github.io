@@ -306,15 +306,15 @@ img{
 
 }
 
-.articleimg{
+.articleimg, .articlescreenshot{
 	text-align:center;
 }
 
-.articleimg img{
+.articleimg img, .articlescreenshot img{
 	margin-left:5px;
 	margin-right:5px;
 }
 
-.articleimg img:hover{
+.articlescreenshot img:hover{
 	opacity:0.6;
 }

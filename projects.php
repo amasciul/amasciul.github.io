@@ -26,7 +26,7 @@
 		<p>
 			It is part of UTC's CALM (Contextualized Annotation for Learning through Mobility) project.
 		</p>
-		<p class ="articleimg">
+		<p class ="articlescreenshot">
 			<a href="./img/museum1.png" rel="lightbox"><img src="./img/museummin1.png" alt="screenshot museum" /></a>
 			<a href="./img/museum2.png" rel="lightbox"><img src="./img/museummin2.png" alt="screenshot museum" /></a>
 			<a href="./img/museum3.png" rel="lightbox"><img src="./img/museummin3.png" alt="screenshot museum" /></a>
@@ -52,7 +52,7 @@
 		<p>
 			This desktop application is the result of a school project.
 		</p>
-		<p class ="articleimg">
+		<p class ="articlescreenshot">
 			<a href="./img/calculator1.png" rel="lightbox"><img src="./img/calculatormin1.png" alt="screenshot calculator" /></a>
 			<a href="./img/calculator2.png" rel="lightbox"><img src="./img/calculatormin2.png" alt="screenshot calculator" /></a>
 			<a href="./img/calculator3.png" rel="lightbox"><img src="./img/calculatormin3.png" alt="screenshot calculator" /></a>
@@ -84,7 +84,7 @@
 		<p>
 			This Expert System is a prototype of a computerizing tool. It was created to help the Outgoing Department of the <em>Université de Technologie de Compiègne</em> in the whole student selecting process for a semester of studies abroad.
 		</p>
-		<p class ="articleimg">
+		<p class ="articlescreenshot">
 			<a href="./img/ri021.png" rel="lightbox"><img src="./img/ri02min1.png" alt="screenshot expert system" /></a>
 			<a href="./img/ri022.png" rel="lightbox"><img src="./img/ri02min2.png" alt="screenshot expert system" /></a>
 		</p>
