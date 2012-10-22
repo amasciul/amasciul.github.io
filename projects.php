@@ -18,7 +18,7 @@
 	<article>
 		<h1>Museum</h1>
 		<p>
-			Museum is an Android app adapted for tablets. It is designed to guide and inform users during a visit in a museum by using a knowledge base, geolocalisation and the user's profile.
+			Museum is an Android app designed for tablets. It was conceived to guide and inform users during a visit in a museum by using a knowledge base, precise geolocation and the user's profile.
 		</p>
 		<p class ="articleimg">
 			<img src="./img/android_logo.png" />
