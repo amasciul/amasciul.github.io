@@ -39,7 +39,7 @@
 		<div id="page">
 			<header>
 				<div id="maintitle">
-					<h1><a href="/?p=home" title="Home" rel="home">Alexandre Masciulli</a></h1>
+					<h1><a href="./?p=home" title="Home" rel="home">Alexandre Masciulli</a></h1>
 				</div>
 				<nav>
 					<ul>
