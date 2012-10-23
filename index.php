@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 	<?php
 	if(isset($_GET["p"])){
@@ -53,16 +53,16 @@
 				<?php
 						switch($page){
 							case "home":
-								include "home.php";
+								include "home.html";
 								break;
 							case "projects":
-								include "projects.php";
+								include "projects.html";
 								break;
 							case "resume":
 								include "resume.html";
 								break;
 							default:
-								include "home.php";
+								include "home.html";
 								break;
 						}
 				?>
