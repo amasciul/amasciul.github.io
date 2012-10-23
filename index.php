@@ -9,6 +9,9 @@
 			case "projects":
 				$page = "projects";
 				break;
+			case "resume":
+				$page = "resume";
+				break;
 			default:
 				$page = "home";
 				break;
@@ -18,7 +21,7 @@
 		$page = "home";
 	}
 	?>
-	<head>
+    <head>
         <meta charset="utf-8" />
         <title>Alexandre Masciulli</title>
         <link href="./design.css" rel="stylesheet">
@@ -54,6 +57,9 @@
 								break;
 							case "projects":
 								include "projects.php";
+								break;
+							case "resume":
+								include "resume.html";
 								break;
 							default:
 								include "home.php";
