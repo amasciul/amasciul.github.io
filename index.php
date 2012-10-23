@@ -18,7 +18,7 @@
 		$page = "home";
 	}
 	?>
-    <head>
+	<head>
         <meta charset="utf-8" />
         <title>Alexandre Masciulli</title>
         <link href="./design.css" rel="stylesheet">

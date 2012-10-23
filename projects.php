@@ -1,8 +1,8 @@
 ﻿<script type="text/javascript" src="slimbox/js/mootools.js"></script>
 <script type="text/javascript" src="slimbox/js/slimbox.js"></script>
 <section class="topsection">
-		<h1>Projects</h1>
-		<p>Here are some of the projects i've been working on at school or during internships.</p>
+	<h1>Projects</h1>
+	<p>Here are some of the projects i've been working on at school or during internships.</p>
 </section>
 
 <section class="project">
