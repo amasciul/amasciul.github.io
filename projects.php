@@ -95,7 +95,7 @@
 			The first one uses forward-chaining. It starts the deducing process by the goal : a matching student profile for a semester in another university. It then asks questions based on what can be helpful or not for the student to go to the university.
 		</p>
 		<p>
-			The second one, backward-chaing based, starts by the student's profile and asks dynamically the good questions to try and deducing his affinity with the university.
+			The second one, backward-chaing based, starts by the student's profile and asks dynamically the good questions to try and deduce his affinity with the university.
 		</p>
 		<p>
 			Although the code is a bit dense, you can take a look at it <a href="https://github.com/amasciul/RI02-expert">here</a>.
