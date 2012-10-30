@@ -102,7 +102,7 @@ nav li
 nav a
 {
     font-size: 1.1em;
-    color: grey;
+    color: gray;
     text-decoration: none;
 	padding:5px;
 	text-transform: uppercase;
@@ -315,9 +315,38 @@ img{
 	opacity:0.6;
 }
 
+#contact{
+	text-align: center;
+}
+
+
+.contactbox{
+	width: 190px;
+	display:inline-block;
+	text-align: center;
+	color: white;
+	padding:15px;
+	padding-top:52px;
+	padding-bottom:52px;
+	background-color:#006D80;
+	border-radius:120px;
+	-webkit-border-radius: 120px;
+	-webkit-box-shadow: 3px 3px 3px 3px rgba(3, 3, 3, 0.3);
+	box-shadow: 3px 3px 3px 3px rgba(3, 3, 3, 0.3);
+}
+
+#contactspace{
+	display: inline-block;
+	width: 200px;
+}
+
+#contact ul{
+	padding-left: 0;
+	list-style: none;
+}
+
 .categorie{
-	padding: 20px;
-	padding-top: 5px;
+	padding-bottom: 10px;
 	font-size: 0.9em;	/*
 	background-color:white;
 	-webkit-border-radius: 40px 3px 3px 3px;
@@ -327,6 +356,6 @@ img{
 	margin-bottom:20px;
 }
 
-.categorie li{
+.categorie ul{
 	list-style-image: url('img/list.png');
 }
