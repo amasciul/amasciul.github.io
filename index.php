@@ -53,16 +53,16 @@
 				<?php
 						switch($page){
 							case "home":
-								include "home.html";
+								include "home.php";
 								break;
 							case "projects":
-								include "projects.html";
+								include "projects.php";
 								break;
 							case "resume":
-								include "resume.html";
+								include "resume.php";
 								break;
 							default:
-								include "home.html";
+								include "home.php";
 								break;
 						}
 				?>
