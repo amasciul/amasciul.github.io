@@ -317,6 +317,8 @@ img{
 
 #contact{
 	text-align: center;
+	font-size: 0.9em;
+	padding-bottom: 10px;
 }
 
 
@@ -347,15 +349,23 @@ img{
 
 .categorie{
 	padding-bottom: 10px;
-	font-size: 0.9em;	/*
-	background-color:white;
-	-webkit-border-radius: 40px 3px 3px 3px;
-	border-radius: 40px 3px 3px 3px;
-	-webkit-box-shadow: 2px 2px 2px 2px rgba(2, 2, 2, 0.1);
-	box-shadow: 2px 2px 2px 2px rgba(2, 2, 2, 0.1);*/
+	font-size: 0.9em;
 	margin-bottom:20px;
 }
 
 .categorie ul{
+	padding-right: 40px;
 	list-style-image: url('img/list.png');
+}
+
+.date{
+	font-weight: bold;
+}
+
+.noaside
+{
+	text-align: left;
+	width: auto;
+	margin-left: auto;
+    display: block;
 }
