@@ -1,6 +1,4 @@
 <section id="contact">
-	<div id="nom">
-	</div>
 	<div class="contactbox">
 		<ul>
 			<li>Computer Science and<br>Software Engineering<br>student</li>
