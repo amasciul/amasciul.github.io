@@ -61,7 +61,7 @@
 			I chose to add some features to it such as "rooms". Suggestions are missing for now but soon to be included.
 		</p>
 		<p class ="articleimg">
-			<img src="./img/windows8_logo.png" />
+			<img src="./img/windowslogo.png" />
 		</p>
 		<p>
 			This project was a way to get familiar with both C# language and Windows 8 app development. The source is available <a href="https://github.com/amasciul/museum-for-windows">here</a>.
