@@ -203,8 +203,6 @@ article h1{
 	background-color:#006D80;
 	border-radius:70px;
 	-webkit-border-radius: 70px;
-	-webkit-box-shadow: 3px 3px 3px 3px rgba(3, 3, 3, 0.3);
-	box-shadow: 3px 3px 3px 3px rgba(3, 3, 3, 0.3);
 }
 
 #arrow
@@ -216,8 +214,6 @@ article h1{
 
 #whoami
 {
-	-webkit-box-shadow: 3px 3px 3px 3px rgba(3, 3, 3, 0.3);
-	box-shadow: 3px 3px 3px 3px rgba(3, 3, 3, 0.3);
 	-webkit-border-radius: 40px 0px 40px 0px;
 	border-radius: 40px 0px 40px 0px;
 	position:relative;
@@ -291,10 +287,8 @@ img{
 
 .project{
 	background-color:white;
-	-webkit-border-radius: 40px 3px 3px 3px;
-	border-radius: 40px 3px 3px 3px;
-	-webkit-box-shadow: 2px 2px 2px 2px rgba(2, 2, 2, 0.1);
-	box-shadow: 2px 2px 2px 2px rgba(2, 2, 2, 0.1);
+	-webkit-border-radius: 40px 0px 0px 0px;
+	border-radius: 40px 0px 0px 0px;
 	margin-bottom:30px;
 }
 
@@ -368,8 +362,6 @@ img{
 	background-color:#006D80;
 	border-radius:120px;
 	-webkit-border-radius: 120px;
-	-webkit-box-shadow: 3px 3px 3px 3px rgba(3, 3, 3, 0.3);
-	box-shadow: 3px 3px 3px 3px rgba(3, 3, 3, 0.3);
 }
 
 #contactspace{
