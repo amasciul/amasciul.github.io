@@ -23,6 +23,49 @@
 
 }
 
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('fonts/Roboto-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('fonts/Roboto-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-CondensedItalic';
+    src: url('fonts/Roboto-CondensedItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Italic';
+    src: url('fonts/Roboto-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-ThinItalic';
+    src: url('fonts/Roboto-ThinItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: url('fonts/Roboto-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 header a{
 	text-decoration:none;
 	color:#046380;
@@ -32,7 +75,7 @@ header a{
 
 body
 {
-	font-family: 'Trebuchet MS', Arial, sans-serif;
+	font-family: 'Roboto-Light','Trebuchet MS', Arial, sans-serif;
 
 }
 
@@ -67,11 +110,11 @@ header{
 header h1
 {
 	font-size:3.7em;
-	font-family:HamburgerHeavenRegular,Arial, sans-serif;
+	font-family:Roboto-Thin,Arial, sans-serif;
     margin-bottom: 0px;
 	margin-top: 0px;
-	text-shadow: 3px 3px 2px #cccccc;
-	filter: dropshadow(color=#cccccc, offx=3, offy=3);
+/*	text-shadow: 3px 3px 2px #cccccc;
+	filter: dropshadow(color=#cccccc, offx=3, offy=3);*/
 
 }
 #maintitle
