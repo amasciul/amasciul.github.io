@@ -68,7 +68,7 @@
 				?>
 			</div>
 			<footer>
-				Alexandre Masciulli - 2012
+				Alexandre Masciulli - 2013
 			</footer>
 		</div>
 	
