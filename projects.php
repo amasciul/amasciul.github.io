@@ -7,38 +7,6 @@
 
 <section class="project">
 	<aside>
-		<p class="projecticon"><img src="./img/museumwin-icon.png" alt="museum for windows icon" /></p>
-		<ul>
-			<li>Windows 8 application</li>
-			<li>developped between November and December 2012</li>
-			<li>uses C#, XAML</li>
-			<li>source available on <a href="https://github.com/amasciul/museum-for-windows">Github</a></li>		
-		</ul>
-	</aside>
-	<article>
-		<h1>Museum for Windows</h1>
-		<p>
-			This is a Windows 8 app based on the Museum for Android app concept. This is a personal project.
-		</p>
-		<p class ="articlescreenshot">
-			<a href="./img/museumwin1.png" rel="lightbox"><img src="./img/museumwinmin1.png" alt="screenshot museum windows 8" /></a>
-			<a href="./img/museumwin2.png" rel="lightbox"><img src="./img/museumwinmin2.png" alt="screenshot museum windows 8" /></a>
-			<a href="./img/museumwin3.png" rel="lightbox"><img src="./img/museumwinmin3.png" alt="screenshot museum windows 8" /></a>
-		</p>
-		<p>
-			I chose to add some features to it such as "rooms". Suggestions are missing for now but soon to be included.
-		</p>
-		<p class ="articleimg">
-			<img src="./img/windows8_logo.png" />
-		</p>
-		<p>
-			This project was a way to get familiar with both C# language and Windows 8 app development. The source is available <a href="https://github.com/amasciul/museum-for-windows">here</a>.
-		</p>
-	</article>
-</section>
-
-<section class="project">
-	<aside>
 		<p class="projecticon"><img src="./img/museum-icon.png" alt="museum icon" /></p>
 		<ul>
 			<li>Android application</li>
@@ -65,6 +33,38 @@
 		</p>
 		<p>
 			Museum is open-source, you may have a look at the code <a href="https://github.com/amasciul/museum">here</a>.
+		</p>
+	</article>
+</section>
+
+<section class="project">
+	<aside>
+		<p class="projecticon"><img src="./img/museumwin-icon.png" alt="museum for windows icon" /></p>
+		<ul>
+			<li>Windows 8 application</li>
+			<li>developped between November and December 2012</li>
+			<li>uses C#, XAML</li>
+			<li>source available on <a href="https://github.com/amasciul/museum-for-windows">Github</a></li>		
+		</ul>
+	</aside>
+	<article>
+		<h1>Museum for Windows</h1>
+		<p>
+			This is a Windows 8 app based on the Museum for Android app concept. This is a personal project.
+		</p>
+		<p class ="articlescreenshot">
+			<a href="./img/museumwin1.png" rel="lightbox"><img src="./img/museumwinmin1.png" alt="screenshot museum windows 8" /></a>
+			<a href="./img/museumwin2.png" rel="lightbox"><img src="./img/museumwinmin2.png" alt="screenshot museum windows 8" /></a>
+			<a href="./img/museumwin3.png" rel="lightbox"><img src="./img/museumwinmin3.png" alt="screenshot museum windows 8" /></a>
+		</p>
+		<p>
+			I chose to add some features to it such as "rooms". Suggestions are missing for now but soon to be included.
+		</p>
+		<p class ="articleimg">
+			<img src="./img/windows8_logo.png" />
+		</p>
+		<p>
+			This project was a way to get familiar with both C# language and Windows 8 app development. The source is available <a href="https://github.com/amasciul/museum-for-windows">here</a>.
 		</p>
 	</article>
 </section>
