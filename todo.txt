@@ -1,0 +1,5 @@
+- validité w3c
+- cv pdf
+- hover menu
+- fonts
+- ui bug chrome
