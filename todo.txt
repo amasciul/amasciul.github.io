@@ -3,3 +3,5 @@
 - hover menu
 - fonts
 - ui bug chrome
+- dégager calculette
+- ajouter uvweb

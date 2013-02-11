@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+`<!DOCTYPE html>
 <html lang="en">
 	<?php
 	if(isset($_GET["p"])){
@@ -24,6 +24,7 @@
     <head>
         <meta charset="utf-8" />
         <title>Alexandre Masciulli</title>
+        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:regular,medium,thin,italic,mediumitalic,bold" title="roboto"/>
         <link href="./design.css" rel="stylesheet">
 		<link rel="stylesheet" href="slimbox/css/slimbox.css" type="text/css" media="screen" />
 		<link rel="icon" type="image/png" href="img/favicon.png" />
