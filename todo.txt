@@ -5,3 +5,5 @@
 - ui bug chrome
 - dégager calculette
 - ajouter uvweb
+- update cv
+- passer les tailles de fonts en em (regarder pour le mobile)
