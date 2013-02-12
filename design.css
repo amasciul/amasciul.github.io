@@ -147,7 +147,6 @@ article h1{
     background-color: #006D80;
     padding: 20px;
     color: white;
-    /*font-size: 0.9em;*/
 }
 
 #whoami h1{
@@ -170,8 +169,7 @@ footer{
 	border-top:1px solid #CCCCCC;
 	margin-top:30px;
 	text-align:center;
-/*	font-size:0.7em;
-*/}
+}
 
 img{
 	border:none;
@@ -200,10 +198,6 @@ img{
 	border-radius: 20px 0px 20px 0px;
 }
 
-.topsection p{
-	/*font-size: "1em";*/
-}
-
 .projecticon{
 	text-align:center;
 }
@@ -223,7 +217,6 @@ img{
 	-webkit-border-radius: 40px 0px 40px 0px;
 	border-radius: 40px 0px 40px 0px;
 	background-color:#006D80;
-	/*font-size: 0.8em;*/
 
 }
 
@@ -248,12 +241,6 @@ img{
 
 }
 
-.project article p{
-	/*font-size:0.9em;*/
-	
-
-}
-
 .articleimg, .articlescreenshot{
 	text-align:center;
 }
@@ -269,7 +256,6 @@ img{
 
 #contact{
 	text-align: center;
-	/*font-size: 0.9em;*/
 	padding-bottom: 10px;
 }
 
@@ -299,7 +285,6 @@ img{
 
 .categorie{
 	padding-bottom: 10px;
-	/*font-size: 0.9em;*/
 	margin-bottom:20px;
 }
 
