@@ -9,7 +9,8 @@ body
 	color: #222;
   	font-family: Roboto,sans-serif;
 	font-weight: 400;
-  	letter-spacing:.1;
+  	letter-spacing:0.1;
+  	font-size:14px;
 }
 
 body::before {
@@ -73,7 +74,7 @@ nav li
 
 nav a
 {
-    font-size: 1.1em;
+    font-size: 1.2em;
     color: gray;
     text-decoration: none;
 	padding:5px;
@@ -137,13 +138,6 @@ article h1{
 	-webkit-border-radius: 70px;
 }
 
-#arrow
-{
-    position: absolute;
-    top: 100px;
-    left: -12px;
-}
-
 #whoami
 {
 	-webkit-border-radius: 40px 0px 40px 0px;
@@ -153,7 +147,7 @@ article h1{
     background-color: #006D80;
     padding: 20px;
     color: white;
-    font-size: 0.9em;
+    /*font-size: 0.9em;*/
 }
 
 #whoami h1{
@@ -166,11 +160,6 @@ text-transform: uppercase;
 	text-align:center;	
 }
 
-#picture img{
-	-webkit-box-shadow: 2px 2px 2px 2px rgba(2, 2, 2, 0.1);
-	box-shadow: 2px 2px 2px 2px rgba(2, 2, 2, 0.1);
-}
-
 #box{
 	padding:30px;
 	background-color:#E9E9E9;
@@ -181,8 +170,8 @@ footer{
 	border-top:1px solid #CCCCCC;
 	margin-top:30px;
 	text-align:center;
-	font-size:0.7em;
-}
+/*	font-size:0.7em;
+*/}
 
 img{
 	border:none;
@@ -198,8 +187,6 @@ img{
 
 .current a:hover{
 	color:white;
-	-webkit-box-shadow: 2px 2px 2px 2px rgba(2, 2, 2, 0.2);
-	box-shadow: 2px 2px 2px 2px rgba(2, 2, 2, 0.2);
 }
 
 .topsection h1{
@@ -211,6 +198,10 @@ img{
 	color:white;
 	-webkit-border-radius: 3px;
 	border-radius: 20px 0px 20px 0px;
+}
+
+.topsection p{
+	/*font-size: "1em";*/
 }
 
 .projecticon{
@@ -232,7 +223,7 @@ img{
 	-webkit-border-radius: 40px 0px 40px 0px;
 	border-radius: 40px 0px 40px 0px;
 	background-color:#006D80;
-	font-size: 0.8em;
+	/*font-size: 0.8em;*/
 
 }
 
@@ -258,7 +249,7 @@ img{
 }
 
 .project article p{
-	font-size:0.9em;
+	/*font-size:0.9em;*/
 	
 
 }
@@ -278,7 +269,7 @@ img{
 
 #contact{
 	text-align: center;
-	font-size: 0.9em;
+	/*font-size: 0.9em;*/
 	padding-bottom: 10px;
 }
 
@@ -308,7 +299,7 @@ img{
 
 .categorie{
 	padding-bottom: 10px;
-	font-size: 0.9em;
+	/*font-size: 0.9em;*/
 	margin-bottom:20px;
 }
 
