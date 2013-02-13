@@ -7,7 +7,6 @@
 
 <section class="project">
 	<aside>
-		<p class="projecticon"><img src="./img/museum-icon.png" alt="museum icon" /></p>
 		<ul>
 			<li>Web app and Android application</li>
 			<li>development started in December 2012</li>
@@ -22,7 +21,11 @@
 			<a href="http://assos.utc.fr/uvweb">UVweb</a> is a school-sized social network allowing students from my university (the UTC) to give their opinon on the lectures they've attended so far.
 		</p>
 		<p>
-			Until december 2012, <a href="http://thomaskeunebroek.fr">Thomas Keunebroek</a> and I were just admins of the website, but we then decided to rebuild it from scratch. The new UVweb will be smartest, easier to use and will use a responsive design. And of course, as Android lovers, we couldn't help developing an Android app with it.</p>
+			Until december 2012, <a href="http://thomaskeunebroek.fr">Thomas Keunebroek</a> and I were just admins of the website, but we then decided to rebuild it from scratch. The new UVweb will be smartest, easier to use and will use a responsive design. And of course, as Android lovers, we couldn't help developing an Android app with it.
+		</p>
+		<p>
+			You can follow the project's advancement by checking out the Github pages of the <a href="http://https://github.com/uvweb/UVweb">web-app</a> and the <a href="https://github.com/uvweb/UVwebForAndroid">Android app</a>.
+		</p>
 	</article>
 </section>
 
