@@ -9,6 +9,27 @@
 	<aside>
 		<p class="projecticon"><img src="./img/museum-icon.png" alt="museum icon" /></p>
 		<ul>
+			<li>Web app and Android application</li>
+			<li>development started in December 2012</li>
+			<li>the web-app uses PHP with Symfony2, and advanced CSS with Twitter Bootstrap</li>
+			<li>the Android app uses Java</li>
+			<li>source available on <a href="https://github.com/uvweb/UVweb">Github</a></li>		
+		</ul>
+	</aside>
+	<article>
+		<h1>UVweb 2.0</h1>
+		<p>
+			<a href="http://assos.utc.fr/uvweb">UVweb</a> is a school-sized social network allowing students from my university (the UTC) to give their opinon on the lectures they've attended so far.
+		</p>
+		<p>
+			Until december 2012, <a href="http://thomaskeunebroek.fr">Thomas Keunebroek</a> and I were just admins of the website, but we then decided to rebuild it from scratch. The new UVweb will be smartest, easier to use and will use a responsive design. And of course, as Android lovers, we couldn't help developing an Android app with it.</p>
+	</article>
+</section>
+
+<section class="project">
+	<aside>
+		<p class="projecticon"><img src="./img/museum-icon.png" alt="museum icon" /></p>
+		<ul>
 			<li>Android application</li>
 			<li>developped between March and June 2012</li>
 			<li>uses Java, XML</li>
