@@ -13,7 +13,7 @@
 			<li>development started in December 2012</li>
 			<li>the web-app uses PHP with Symfony2, and advanced CSS with Twitter Bootstrap</li>
 			<li>the Android app uses Java</li>
-			<li>source available on <a href="https://github.com/uvweb/UVweb">Github</a></li>		
+			<li>source available on <a href="https://github.com/uvweb">Github</a></li>		
 		</ul>
 	</aside>
 	<article>
