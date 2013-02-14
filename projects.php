@@ -18,13 +18,16 @@
 	<article>
 		<h1>UVweb 2.0</h1>
 		<p>
-			<a href="http://assos.utc.fr/uvweb">UVweb</a> is a school-sized social network allowing students from my university (the UTC) to give their opinon on the lectures they've attended so far.
+			UVweb is a school-sized social network allowing students from my university (the UTC) to give their opinon on the lectures they've attended so far.
 		</p>
 		<p>
 			Until december 2012, <a href="http://thomaskeunebroek.fr">Thomas Keunebroek</a> and I were just admins of the website, but we then decided to rebuild it from scratch. We'll like the new UVweb to be smartest, easier to use and to have a responsive design. And of course, as Android lovers, we can't help but develop an Android app for phones and tablets with it.
 		</p>
 		<p>
 			You can follow the project's advancement by checking out the Github pages of the <a href="http://https://github.com/uvweb/UVweb">web-app</a> and the <a href="https://github.com/uvweb/UVwebForAndroid">Android app</a>.
+		</p>
+		<p>
+			We hope UVweb 2 to be operational by the end of June 2013. Until then, check out the <a href="http://assos.utc.fr/uvweb">current version</a> of the platform !
 		</p>
 	</article>
 </section>
@@ -89,38 +92,6 @@
 		</p>
 		<p>
 			This project was a way to get familiar with both C# language and Windows 8 app development. The source is available <a href="https://github.com/amasciul/museum-for-windows">here</a>.
-		</p>
-	</article>
-</section>
-
-<section class="project">
-	<aside>
-		<p class="projecticon"><img src="./img/calculator-icon.png" alt="calculator icon" /></p>
-		<ul>
-			<li>Cross-plateform desktop application</li>
-			<li>developped between May and June 2012</li>
-			<li>uses C++ and Qt framework</li>
-			<li>source available on <a href="https://github.com/amasciul/QtCalculator">Github</a></li>
-		</ul>
-	</aside>
-	<article>
-		<h1>Reverse Polnish Notation Calculator</h1>
-		<p>
-			This desktop application is the result of a school project.
-		</p>
-		<p class ="articlescreenshot">
-			<a href="./img/calculator1.png" rel="lightbox"><img src="./img/calculatormin1.png" alt="screenshot calculator" /></a>
-			<a href="./img/calculator2.png" rel="lightbox"><img src="./img/calculatormin2.png" alt="screenshot calculator" /></a>
-			<a href="./img/calculator3.png" rel="lightbox"><img src="./img/calculatormin3.png" alt="screenshot calculator" /></a>
-		</p>
-		<p>
-			Following the example of the "old" HP-35 calculator, the app uses the reverse polnish notation (RPN). It supports various types of numbers such as fractions, complex numbers, real numbers, and integers. It is also possible to create and manipulate litteral expressions.
-		</p>
-		<p class ="articleimg">
-			<img src="./img/Qt-icon.png" />
-		</p>
-		<p>
-			Based on the Qt framework, the RPN Calculator is available on Windows, Mac OS and Linux. It is also open-source (code <a href="https://github.com/amasciul/QtCalculator">here</a>).
 		</p>
 	</article>
 </section>
