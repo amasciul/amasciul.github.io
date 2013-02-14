@@ -3,6 +3,3 @@
 
 - hover menu
 - ui bug chrome
-
-- dégager calculette
-- ajouter uvweb
