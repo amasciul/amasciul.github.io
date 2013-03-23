@@ -21,45 +21,23 @@
 </section>
 <section class="categorie">
 	<article class="noaside">
-		<h1>Diplomas and Education</h1>
-		<h4>Diplomas</h4>
-		<ul>
-			<li><span class="date">Expected 2014</span> : Diplôme d'Ingénieur en Génie Informatique (Master's in Computer Engineering)</li>
-			<li><span class="date">2009</span> : Baccalauréat (final French High School diploma) with emphasis on Maths and Science (with distinctions).</li>
-		</ul>
-		<h4>Education since High School</h4>
+		<h1>Software engineering experience</h1>
 		<ul>
 			<li>
-				<span class="date">2011 - present</span> : Université de Technologie de Compiègne, <span class="lieu">Compiègne, France</span> :
-				<div class="description">Engineering studies in Computer Science Department (expected graduation June 2014).</div>
+				<span class="date">Mobile apps development</span>
+				<div class="description">Designed several Android responsive apps. Also worked on Windows 8 app conception.</div>
 			</li>
 			<li>
-				<span class="date">2009 - 2011</span> : Université de Technologie de Compiègne, <span class="lieu">Compiègne, France</span> :
-				<div class="description">General engineering studies : maths, mechanics, physics, computer engineering.</div>
+				<span class="date">Client and server-side web development</span>
+				<div class="description">Designing skills with web application frameworks (Symfony 2).</div>
 			</li>
 			<li>
-				<span class="date">2006 - 2009</span> : Lycée (French High School) Van Gogh, <span class="lieu">Ermont, France</span> :
-				<div class="description">Graduated June 2009.</div>
-			</li>
-		</ul>
-	</article>
-</section>
-<section class="categorie">
-	<article class="noaside">
-		<h1>Computer skills</h1>
-		<h4>Software development</h4>
-		<ul>
-			<li>
-				<span class="date">Desktop software programming</span> : various projects using different programming languages such as C, C++, C#, Java, Python, Common LISP.
+				<span class="date">Computer science skills</span>
+				<div class="description">Experience in software conception, algorithms, data structures.</div>
 			</li>
 			<li>
-				<span class="date">Mobile software development</span> : helped developing several Android native applications. Also worked on a cross-platform (iOS + Android) mobile app using Titanium SDK.
-			</li>
-		</ul>
-	<h4>Web development</h4>
-		<ul>
-			<li>
-				<span class="date">Dynamic websites and databases</span> : various websites administrated and developed using PHP, SQL, Javascript.
+				<span class="date">Technical skills</span>
+				<div class="description">Strong experience in Java, C#, C++, PHP, SQL and Javascript.</div>
 			</li>
 		</ul>
 	</article>
@@ -85,10 +63,35 @@
 </section>
 <section class="categorie">
 	<article class="noaside">
+		<h1>Diplomas and Education</h1>
+		<h4>Diplomas</h4>
+		<ul>
+			<li><span class="date">Expected 2014</span> : Diplôme d'Ingénieur en Génie Informatique (Master's in Computer Engineering)</li>
+			<li><span class="date">2009</span> : Baccalauréat (final French High School diploma) with emphasis on Maths and Science (with distinctions).</li>
+		</ul>
+		<h4>Education since High School</h4>
+		<ul>
+			<li>
+				<span class="date">2011 - present</span> : Université de Technologie de Compiègne, <span class="lieu">Compiègne, France</span> :
+				<div class="description">Engineering studies in Computer Science Department (expected graduation June 2014).</div>
+			</li>
+			<li>
+				<span class="date">2009 - 2011</span> : Université de Technologie de Compiègne, <span class="lieu">Compiègne, France</span> :
+				<div class="description">General engineering studies : maths, mechanics, physics, computer engineering.</div>
+			</li>
+			<li>
+				<span class="date">2006 - 2009</span> : Lycée (French High School) Van Gogh, <span class="lieu">Ermont, France</span> :
+				<div class="description">Graduated June 2009.</div>
+			</li>
+		</ul>
+	</article>
+</section>
+<section class="categorie">
+	<article class="noaside">
 		<h1>Languages</h1>
 		<ul>
 			<li>
-				<span class="date">English</span> : Advanced (European C1 level).
+				<span class="date">English</span> : Advanced (European C2 level).
 			</li>
 			<li>
 				<span class="date">Spanish</span> : Upper intermediate (European B2 Level).
