@@ -1,0 +1,321 @@
+header a{
+	text-decoration:none;
+	color:#046380;
+}
+
+
+body
+{
+	color: #222;
+  	font-family: Roboto,sans-serif;
+	font-weight: 400;
+  	letter-spacing:0.1;
+  	font-size:14px;
+}
+
+body::before {
+	content: "";
+	position: fixed;
+	top: -10px;
+	left: 0;
+	width: 100%;
+	height: 10px;
+	z-index: 100;
+	-webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, .8);
+}
+
+#page{
+    width: 945px;
+    margin: auto;
+}
+
+section h1, nav a
+{
+    font-weight: normal;
+    
+}
+header{
+	margin-top:20px;
+	border-bottom:1px solid #CCCCCC;
+	margin-bottom:20px;
+}
+header h1
+{
+	font-size:3.7em;
+	font-family: Roboto, sans-serif;
+    margin-bottom: 0px;
+    font-weight: 100;
+	margin-top: 0px;
+}
+#maintitle
+{
+	display: inline-block;
+	margin-left:15px;
+}
+
+nav
+{
+	margin-top: 15px;
+	float: right;
+}
+
+nav ul
+{
+    list-style-type: none;
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.2em;
+    color: gray;
+    text-decoration: none;
+	padding:5px;
+	text-transform: uppercase;
+}
+
+nav a:hover
+{
+    color:black;
+}
+
+article, #whoami
+{
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+}
+article a{
+	color:black;
+}
+article a:hover{
+	text-decoration: none;
+}
+
+#whoami a{
+	color:white;
+}
+
+#whoami a:hover{
+	text-decoration: none;
+}
+
+article
+{
+	width:550px;
+	margin-left:30px;
+}
+
+article h1{
+	border-bottom:1px solid #cccccc;
+	padding-bottom:10px;
+	color : #006D80;
+	font-size: 18px;
+}
+
+#networks{
+	margin-top:40px;
+	text-align:center;
+}
+
+#networks a img:hover{
+	opacity:0.8;
+
+}
+
+#networksbox{
+	display:inline-block;
+	padding:15px;
+	padding-top:50px;
+	padding-bottom:50px;
+	background-color:#006D80;
+	border-radius:70px;
+	-webkit-border-radius: 70px;
+}
+
+#whoami
+{
+	-webkit-border-radius: 40px 0px 40px 0px;
+	border-radius: 40px 0px 40px 0px;
+	position:relative;
+    width: 200px;
+    background-color: #006D80;
+    padding: 20px;
+    color: white;
+}
+
+#whoami h1{
+text-transform: uppercase;
+
+
+}
+
+#picture{
+	text-align:center;	
+}
+
+#box{
+	padding:30px;
+	padding-top: 10px;
+	min-height:400px;
+}
+
+footer{
+	border-top:1px solid #CCCCCC;
+	margin-top:30px;
+	text-align:center;
+}
+
+img{
+	border:none;
+
+}
+
+.current a{
+	background-color:#006D80;
+	color:white;
+	-webkit-border-radius: 15px 0px 15px 0px;
+	border-radius: 15px 0px 15px 0px;
+}
+
+.current a:hover{
+	color:white;
+}
+
+.topsection h1{
+	margin-top: 0px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	padding:5px;
+	padding-left:30px;
+	background-color:#006D80;
+	color:white;
+	-webkit-border-radius: 3px;
+	border-radius: 20px 0px 20px 0px;
+}
+
+.projecticon{
+	text-align:center;
+}
+
+.project{
+	background-color:white;
+	-webkit-border-radius: 40px 0px 0px 0px;
+	border-radius: 40px 0px 0px 0px;
+	margin-bottom:30px;
+}
+
+.project aside{
+	padding:10px;
+	display: inline-block;
+	color:white;
+	width: 200px;
+	-webkit-border-radius: 40px 0px 40px 0px;
+	border-radius: 40px 0px 40px 0px;
+	background-color:#006D80;
+
+}
+
+.project aside ul{
+	padding:0px;
+	padding-left:20px;
+	
+
+}
+
+.project aside a{
+	color:white;
+}
+
+.project aside a:hover{
+	text-decoration: none;
+}
+
+.project article{
+	display: inline-block;
+	
+
+}
+
+.articleimg, .articlescreenshot{
+	text-align:center;
+}
+
+.articleimg img, .articlescreenshot img{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.articlescreenshot img:hover{
+	opacity:0.6;
+}
+
+#contact{
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+
+.contactbox{
+	width: 190px;
+	display:inline-block;
+	text-align: center;
+	color: white;
+	padding:15px;
+	padding-top:52px;
+	padding-bottom:52px;
+	background-color:#006D80;
+	border-radius:120px;
+	-webkit-border-radius: 120px;
+}
+
+#contactspace{
+	display: inline-block;
+	width: 200px;
+}
+
+#contact ul{
+	padding-left: 0;
+	list-style: none;
+}
+
+.categorie{
+	padding-bottom: 10px;
+	margin-bottom:20px;
+}
+
+.categorie ul{
+	padding-right: 40px;
+	list-style-image: url('img/list.png');
+}
+
+.date{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.noaside
+{
+	text-align: left;
+	width: auto;
+	margin-left: auto;
+    display: block;
+}
+
+.description {
+	font-size: 14px;
+}
+
+.categorie li {
+	margin-bottom: 3px;
+}
+
+#aim {
+	margin-top: 20px;
+}
