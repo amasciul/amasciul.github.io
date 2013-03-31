@@ -45,6 +45,7 @@ a:hover, a:focus {
 .jumbotron .lead {
 	font-size: 30px;
 	line-height: 1.25;
+	font-weight: 100;
 }
 .jumbotron .btn {
 	font-size: 21px;
