@@ -6,6 +6,12 @@ body {
 h1 {
 	font-family: Roboto, sans-serif;
 }
+a {
+	color : #ae55a0;
+}
+a:hover, a:focus {
+	color: #7c3b7a;
+}
 
 /* Custom container */
 .masthead h1 {
