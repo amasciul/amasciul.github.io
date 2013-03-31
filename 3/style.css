@@ -3,11 +3,13 @@ html, body {
 }
 body {
 }
+h1 {
+	font-family: Roboto, sans-serif;
+}
 
 /* Custom container */
 .masthead h1 {
 	font-size: 3.7em;
-	font-family: Roboto, sans-serif;
 	font-weight: 200;
 	margin-top: 20px;
 	margin-bottom: 40px;
