@@ -1,5 +1,0 @@
-- cv pdf
-- update cv
-
-- hover menu
-- ui bug chrome
