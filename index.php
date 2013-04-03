@@ -2,17 +2,17 @@
 if(isset($_GET["p"])){
 	switch($_GET["p"]){
 		case "home":
-			include "home.html";
+			include "home.php";
 			break;
 		case "projects":
-			include "projects.html";
+			include "projects.php";
 			break;
 		default:
-			include "home.html";
+			include "home.php";
 			break;
 	}
 }
 else{
-	include "home.html";
+	include "home.php";
 }
 ?>
