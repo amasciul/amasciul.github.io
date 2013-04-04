@@ -5,7 +5,7 @@
 					<h2>Hello.</h2>
 					<p class="lead">This is where I'm listing all the little projects I've been working on. You can also take a look at my resume.</p>
 					<div class="btn-group">
-						<a class="btn btn-primary" href="./projects.html">Check out my projects</a>
+						<a class="btn btn-primary" href="./?p=projects">Check out my projects</a>
 						<a class="btn" href="./alexandremasciulli.pdf">Get my CV</a>
 					</div>
 					<div class="networks">
@@ -50,35 +50,4 @@
 					</div>
 				</div>
 			</div> <!-- /container -->
-
-
-
-
-
-			
-			<div id="push"></div>
-		</div>
-		<div id="footer">
-		    <div class="container">
-		    	<p class="muted credit">Alexandre Masciulli - 2013</p>
-			</div>
-		</div>
-		<!-- Le javascript
-		================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
-		<script src="assets/js/jquery.js"></script>
-		<script src="assets/js/bootstrap-transition.js"></script>
-		<script src="assets/js/bootstrap-alert.js"></script>
-		<script src="assets/js/bootstrap-modal.js"></script>
-		<script src="assets/js/bootstrap-dropdown.js"></script>
-		<script src="assets/js/bootstrap-scrollspy.js"></script>
-		<script src="assets/js/bootstrap-tab.js"></script>
-		<script src="assets/js/bootstrap-tooltip.js"></script>
-		<script src="assets/js/bootstrap-popover.js"></script>
-		<script src="assets/js/bootstrap-button.js"></script>
-		<script src="assets/js/bootstrap-collapse.js"></script>
-		<script src="assets/js/bootstrap-carousel.js"></script>
-		<script src="assets/js/bootstrap-typeahead.js"></script>
-
-	</body>
-</html>
+<?php include "footer.php" ?>
