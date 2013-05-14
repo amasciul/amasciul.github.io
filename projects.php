@@ -6,6 +6,21 @@
 				</div>
 			</header>
 			<div class="container">
+			<div class="page-header">
+					<h1>Moka <small>A powerful tool to enhance in-room collaboration</small></h1>
+				</div>
+				<div class="row-fluid">
+					<div class="span4">
+						<ul>
+							<li>Android application and central web interface</li>
+							<li>developed between March and June 2013</li>
+							<li>uses Java, HTML5 and Javascript</li>
+							<li>source available on Github (<a href="https://github.com/tkeunebr/moka-app">Android app</a>, <a href="https://github.com/tkeunebr/moka-server">server</a>, and <a href="https://github.com/tkeunebr/moka-platform">visual common platform</a></li>		
+						</ul>
+					</div>
+					<div class="span8">
+					</div>
+				</div>
 				<div class="page-header">
 					<h1>UVweb 2.0 <small>UTC's exchange plateform reinvented</small></h1>
 				</div>
