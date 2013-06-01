@@ -30,7 +30,7 @@
 							The goal of Moka is to simplify in-room collaboration. No need for any type of expensive hardware such as interactive whiteboards. One video projector, one computer and each attendant's phone is everything you need to start creating things efficiently.
 						</p>
 						<p>
-							If you want to learn more about Moka, just visit its website <a href="http://themokaproject.github.io/">right there</a>.
+							If you want to learn more about Moka, just visit the website <a href="http://themokaproject.github.io/">right there</a>.
 						</p>
 					</div>
 				</div>
