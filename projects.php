@@ -14,11 +14,24 @@
 						<ul>
 							<li>Android application and central web interface</li>
 							<li>developed between March and June 2013</li>
-							<li>uses Java, HTML5 and Javascript</li>
-							<li>source available on Github (<a href="https://github.com/tkeunebr/moka-app">Android app</a>, <a href="https://github.com/tkeunebr/moka-server">server</a>, and <a href="https://github.com/tkeunebr/moka-platform">visual common platform</a></li>		
+							<li>uses Java, HTML5 and Javascript, REST, Jade</li>
+							<li>source available on Github (<a href="https://github.com/tkeunebr/moka-app">Android app</a>, <a href="https://github.com/tkeunebr/moka-server">Jade server</a>, and <a href="https://github.com/tkeunebr/moka-platform">Javascript platform</a></li>		
 						</ul>
 					</div>
 					<div class="span8">
+						<p>
+							The Moka projects intends to change the way software engineers conceive their products and regroup their ideas. After having taken place in front of a single large screen, the attendants of a conception meeting can interact with the web interface displayed on it, using their Android smartphone. They can add or edit content such as UML diagrams, images, web links and so on. At the end of the meeting, the content displayed on the screen can be exported or saved in the cloud for later reuse.
+						</p>
+						<div class="text-center">
+							<img src="./img/moka.png" />
+						</div>
+						<br>
+						<p>
+							The goal of Moka is to simplify in-room collaboration. No need for any type of expensive hardware such as interactive whiteboards. One video projector, one computer and each attendant's phone is everything you need to start creating things efficiently.
+						</p>
+						<p>
+							If you want to learn more about Moka, just visit its website <a href="http://themokaproject.github.io/">right there</a>.
+						</p>
 					</div>
 				</div>
 				<div class="page-header">
