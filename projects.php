@@ -10,22 +10,25 @@
 					<h1>Moka <small>A powerful tool to enhance in-room collaboration</small></h1>
 				</div>
 				<div class="row-fluid">
-					<div class="span4">
+					<div class="span3">
 						<ul>
 							<li>Android application and central web interface</li>
 							<li>developed between March and June 2013</li>
 							<li>uses Java, HTML5 and Javascript, REST, Jade</li>
-							<li>source available on Github (<a href="https://github.com/tkeunebr/moka-app">Android app</a>, <a href="https://github.com/tkeunebr/moka-server">Jade server</a>, and <a href="https://github.com/tkeunebr/moka-platform">Javascript platform</a></li>		
+							<li>source available on <a href="https://github.com/themokaproject">Github</a></li>
 						</ul>
 					</div>
-					<div class="span8">
+					<div class="span9">
 						<p>
-							The Moka projects intends to change the way software engineers conceive their products and regroup their ideas. After having taken place in front of a single large screen, the attendants of a conception meeting can interact with the web interface displayed on it, using their Android smartphone. They can add or edit content such as UML diagrams, images, web links and so on. At the end of the meeting, the content displayed on the screen can be exported or saved in the cloud for later reuse.
+							The Moka projects intends to change the way software engineers conceive their products and regroup their ideas.
 						</p>
 						<div class="text-center">
 							<img src="./img/moka.png" />
 						</div>
 						<br>
+						<p>
+							After having taken place in front of a single large screen, the attendants of a conception meeting can interact with the web interface displayed on that screen, using their Android smartphone. They can add or edit content such as UML diagrams, images, web links and so on. At the end of the meeting, the content displayed on the screen can be saved for later reuse.
+						</p>
 						<p>
 							The goal of Moka is to simplify in-room collaboration. No need for any type of expensive hardware such as interactive whiteboards. One video projector, one computer and each attendant's phone is everything you need to start creating things efficiently.
 						</p>
