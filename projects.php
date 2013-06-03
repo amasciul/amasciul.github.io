@@ -20,7 +20,7 @@
 					</div>
 					<div class="span9">
 						<p>
-							The Moka projects intends to change the way software engineers conceive their products and regroup their ideas.
+							The Moka project intends to change the way software engineers conceive their products and regroup their ideas.
 						</p>
 						<div class="text-center">
 							<img src="./img/moka.png" />
