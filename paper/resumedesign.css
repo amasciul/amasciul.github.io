@@ -300,7 +300,7 @@ h4 {
 
 .categorie ul{
 	padding-right: 40px;
-	list-style-image: url('img/list2.png');
+	list-style-image: url('../img/list2.png');
 }
 .website {
 	font-size: 18px;
