@@ -52,7 +52,11 @@ a:hover, a:focus {
 	padding: 14px 24px;
 }
 .jumbotron .networks {
-	margin-top: 40px;
+	margin-top: 30px;
+}
+
+.jumbotron .index-buttons {
+	margin-top: 15px;
 }
 .media {
 	margin-bottom: 20px;
@@ -86,6 +90,7 @@ a:hover, a:focus {
 	border-right: 0;
 	border-radius: 0 3px 3px 0;
 }
+
 #footer {
 	text-align: center;
 	border-top: 1px solid #e5e5e5;
@@ -104,6 +109,9 @@ a:hover, a:focus {
 .container .credit {
 	margin: 40px 0;
 }
+.img-lighten:hover{
+	opacity: 0.9;
+}
 @media (max-width: 767px) {
 	#footer, .jumbotron {
 		margin-left: -20px;
@@ -111,5 +119,4 @@ a:hover, a:focus {
 		padding-left: 20px;
 		padding-right: 20px;
 	}
-
 }
