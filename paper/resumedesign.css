@@ -8,7 +8,7 @@ body
 {
 	color: #222;
   	font-family: Roboto,sans-serif;
-	font-weight: 200;
+	font-weight: 400;
   	letter-spacing:0.1;
   	font-size:13px;
 }
@@ -328,6 +328,7 @@ h4 {
 
 .description {
 	font-size: 13px;
+	display: inline-block;
 }
 
 .categorie li {
