@@ -34,7 +34,6 @@ section h1, nav a
     
 }
 header{
-	margin-top:20px;
 	margin-bottom:20px;
 }
 header h1
@@ -317,7 +316,7 @@ h4 {
 
 .date{
 	font-weight: bold;
-	font-size: 14px;
+	font-size: 15px;
 }
 .date small {
 	font-weight: normal;
