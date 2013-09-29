@@ -121,6 +121,10 @@ nav a:hover
 	font-size: 18px;
 }
 
+.categorie h1 small{
+	color: #777777;
+}
+
 #networks{
 	margin-top:40px;
 	text-align:center;
@@ -313,6 +317,10 @@ h4 {
 	font-weight: bold;
 	font-size: 14px;
 }
+.date small {
+	font-weight: normal;
+	color: #777777;
+}
 .place {
 	font-style:italic;
 	font-size: 14px;
@@ -332,7 +340,7 @@ h4 {
 }
 
 .categorie li {
-	margin-bottom: 3px;
+	margin-bottom: 5px;
 }
 
 #aim {
