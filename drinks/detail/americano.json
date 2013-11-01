@@ -1,0 +1,13 @@
+{
+	"name":"Americano",
+	"id":"americano",
+	"imageURL":"http://www.drinkhacker.com/wp-content/uploads/2013/01/Fourth-and-Long.jpg",
+	"history": "The cocktail was first served in creator Gaspare Campari's bar, Caffè Campari, in the 1860s. It was originally known as the \"Milano-Torino\" because of its ingredients.",
+	"ingredients":
+	[
+		"30ml Campari",
+		"30ml red vermouth",
+		"A splash of soda water"
+	],
+	"instructions":"Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice."
+}
